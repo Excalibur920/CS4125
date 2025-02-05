@@ -1,0 +1,60 @@
+Array
+(
+    [0] => INSERT INTO ordert(r_id,c_id,ord_stat,total) VALUES('1','1','Pending','5')
+    [1] => test2
+)
+
+Array
+(
+    [0] => INSERT INTO order_line(order_id,line_no,line_id,price,quantity) VALUES('8','1','1','2.50','2')
+    [1] => test2
+)
+
+Array
+(
+    [0] => INSERT INTO ordert(r_id,c_id,ord_stat,total) VALUES('1','1','Pending','17')
+    [1] => test2
+)
+
+Array
+(
+    [0] => INSERT INTO order_line(order_id,line_no,line_id,price,quantity) VALUES('9','1','1','2.50','2')
+    [1] => test2
+)
+
+Array
+(
+    [0] => INSERT INTO order_line(order_id,line_no,line_id,price,quantity) VALUES('9','2','2','6.00','1')
+    [1] => test2
+)
+
+Array
+(
+    [0] => INSERT INTO order_line(order_id,line_no,line_id,price,quantity) VALUES('9','3','3','6.00','1')
+    [1] => test2
+)
+
+Array
+(
+    [0] => INSERT INTO ordert(r_id,c_id,ord_stat,total) VALUES('1','1','Pending','14.5')
+    [1] => test2
+)
+
+Array
+(
+    [0] => INSERT INTO order_line(order_id,line_no,line_id,price,quantity) VALUES('10','1','1','2.50','1')
+    [1] => test2
+)
+
+Array
+(
+    [0] => INSERT INTO order_line(order_id,line_no,line_id,price,quantity) VALUES('10','2','2','6.00','1')
+    [1] => test2
+)
+
+Array
+(
+    [0] => INSERT INTO order_line(order_id,line_no,line_id,price,quantity) VALUES('10','3','3','6.00','1')
+    [1] => test2
+)
+
