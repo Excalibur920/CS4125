@@ -1,1 +1,1 @@
-I found this project in a mess, as such there are some parts missing (e.g. login process), so i recommend to start at cust_dashboard.php
+I found this project in a mess, as such there are some parts missing (e.g. login process), so i recommend to start at cust_dashboard.php and to click the option with the chicken, as the rest of the project is through that.
